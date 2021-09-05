@@ -97,7 +97,7 @@ header img {
   width: 13px;
   height: 8px;
   margin-left: 10px;
-  background-image: url("../../../Resource/icons/down-arrow.svg");
+  background-image: url("../Resource/icons/down-arrow.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -128,7 +128,7 @@ main {
   width: 200px;
   height: 200px;
   margin: 0 auto 50px;
-  background-image: url("/Resource/img/Bitcoin.svg");
+  background-image: url("../Resource/img/Bitcoin.svg");
 }
 
 .main--exchange-container h2 {
@@ -185,7 +185,7 @@ main {
   width: 13px;
   height: 8px;
   margin-left: 10px;
-  background-image: url("/Resource/icons/trending-down.svg");
+  background-image: url("../Resource/icons/trending-down.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -196,7 +196,7 @@ main {
   width: 13px;
   height: 8px;
   margin-left: 10px;
-  background-image: url("/Resource/icons/trending-up.svg");
+  background-image: url("../Resource/icons/trending-up.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -231,7 +231,7 @@ main {
   position: absolute;
   width: 40px;
   height: 25px;
-  background-image: url("/Resource/icons/batata.svg");
+  background-image: url("../Resource/icons/batata.svg");
   top: -10px;
   left: calc(50% - 20px);
 }
@@ -294,7 +294,7 @@ main {
   width: 24px;
   height: 24px;
   margin-bottom: 10px;
-  background-image: url("/Resource/icons/clock.svg");
+  background-image: url("../Resource/icons/clock.svg");
 }
 
 .product-detail--card .view {
@@ -302,7 +302,7 @@ main {
   width: 24px;
   height: 24px;
   margin-bottom: 10px;
-  background-image: url("/Resource/icons/eye.svg");
+  background-image: url("../Resource/icons/eye.svg");
 }
 
 .product-detail--card .price {
@@ -310,7 +310,7 @@ main {
   width: 24px;
   height: 24px;
   margin-bottom: 10px;
-  background-image: url("/Resource/icons/dollar-sign.svg");
+  background-image: url("../Resource/icons/dollar-sign.svg");
 }
 
 .product-detail--card .verificate {
@@ -318,14 +318,14 @@ main {
   width: 24px;
   height: 24px;
   margin-bottom: 10px;
-  background-image: url("/Resource/icons/check-circle.svg");
+  background-image: url("../Resource/icons/check-circle.svg");
 }
 
 .bitcoin-img-container {
   width: 100%;
   min-width: 320px;
   height: 50vh;
-  background-image: url("/Resource/img/bitcoinbaby.jpg");
+  background-image: url("../Resource/img/bitcoinbaby.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -456,7 +456,7 @@ main {
   display: inline-block;
   width: 20px;
   height: 20px;
-  background-image: url("/Resource/icons/orange-right-arrow.svg");
+  background-image: url("../Resource/icons/orange-right-arrow.svg");
   vertical-align: text-bottom;
 }
 
